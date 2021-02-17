@@ -1,7 +1,6 @@
 <template>
   <div class="Pare">
-   <p>Hijo mio</p>
-    <Fill></Fill>
+    <Fill :name="name"></Fill>
   </div>
 </template>
 
@@ -14,9 +13,12 @@ export default {
   },
   data() {
       return {
-          menssage: 'Soc el Pare'
+          name: 'Roberto'
       }
-  }
+  },
+  mounted () {
+      this.$emit('name', this.name);
+  },
 }
 </script>
 
