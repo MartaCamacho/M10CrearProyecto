@@ -1,11 +1,4 @@
-<template>
-  <div class="Pare">
-    <Fill :name="name"></Fill>
-  </div>
-</template>
-
-<script>
-import Fill from './Fill.vue';
+import Fill from '../Fill/Fill.vue';
 
 export default {
     components: {
@@ -20,7 +13,3 @@ export default {
       this.$emit('name', this.name);
   },
 }
-</script>
-
-<style scoped>
-</style>
