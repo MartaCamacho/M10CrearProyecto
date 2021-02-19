@@ -4,7 +4,7 @@
 </template>
 
 <script>
-import Pare from './components/Pare.vue'
+import Pare from './components/Pare/Pare.vue'
 
 export default {
   name: 'App',
