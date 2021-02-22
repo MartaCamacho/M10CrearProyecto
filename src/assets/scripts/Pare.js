@@ -1,4 +1,4 @@
-import Fill from '../Fill/Fill.vue';
+import Fill from '../../components/Fill.vue';
 
 export default {
     components: {

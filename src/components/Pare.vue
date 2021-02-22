@@ -4,5 +4,5 @@
   </div>
 </template>
 
-<script src="./Pare.js"></script>
+<script src="../assets/scripts/Pare.js"></script>
 

@@ -3,24 +3,8 @@
   <Pare />
 </template>
 
-<script>
-import Pare from './components/Pare/Pare.vue'
-
-export default {
-  name: 'App',
-  components: {
-    Pare
-  }
-}
-</script>
+<script src="./assets/scripts/App.js"></script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 10px;
-}
+@import url('./assets/styles/css/App.css');
 </style>
