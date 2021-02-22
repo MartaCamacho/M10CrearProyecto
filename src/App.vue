@@ -5,6 +5,6 @@
 
 <script src="./scripts/App.js"></script>
 
-<style>
+<style scope>
 @import url('./styles/css/App.css');
 </style>
