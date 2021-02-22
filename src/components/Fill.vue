@@ -10,8 +10,8 @@
   </div>
 </template>
 
-<script src="../assets/scripts/Fill.js"></script>
+<script src="../scripts/Fill.js"></script>
 
 <style>
-  @import '../assets/styles/css/Fill.css';
+  @import '../styles/css/Fill.css';
 </style>

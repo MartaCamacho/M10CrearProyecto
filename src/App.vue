@@ -3,8 +3,8 @@
   <Pare />
 </template>
 
-<script src="./assets/scripts/App.js"></script>
+<script src="./scripts/App.js"></script>
 
 <style>
-@import url('./assets/styles/css/App.css');
+@import url('./styles/css/App.css');
 </style>

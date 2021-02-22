@@ -1,4 +1,4 @@
-import Pare from '../../components/Pare.vue'
+import Pare from '../components/Pare.vue'
 
 export default {
   name: 'App',

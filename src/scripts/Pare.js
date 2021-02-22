@@ -1,4 +1,4 @@
-import Fill from '../../components/Fill.vue';
+import Fill from '../components/Fill.vue';
 
 export default {
     components: {
@@ -8,8 +8,5 @@ export default {
       return {
           name: 'Roberto'
       }
-  },
-  mounted () {
-      this.$emit('name', this.name);
   },
 }

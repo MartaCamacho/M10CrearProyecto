@@ -5,6 +5,6 @@
   </div>
 </template>
 
-<script src="../assets/scripts/HelloWorld.js">
+<script src="../scripts/HelloWorld.js">
 </script>
 
